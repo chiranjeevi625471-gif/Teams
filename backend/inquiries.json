@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1771247919114,
+    "name": "Test User",
+    "phone": "9876543210",
+    "course": "Regular Tuitions",
+    "createdAt": "2026-02-16T13:18:39.114Z"
+  },
+  {
+    "id": 1771247958927,
+    "name": "chiranjeevi",
+    "phone": "7055647890",
+    "course": "Vedic Maths",
+    "createdAt": "2026-02-16T13:19:18.927Z"
+  }
+]
